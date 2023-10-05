@@ -1,0 +1,2 @@
+# se-lab
+Szoftvertechnológia labor
